@@ -7,6 +7,7 @@ void main(){
 	
 	printf("\nInforme o valor do primeiro produto:");
 	scanf("%f",&v1);
+ 
 	printf("\nInforme o valor do segundo produto:");
 	scanf("%f",&v2);
 	printf("\nInforme o valor do terceiro produto:");
